@@ -12,11 +12,11 @@ Please feel free to [pull requests](https://github.com/icey-zhang/Awesome-Visual
 
 ### Type-of-Visual-Language-Remote-Sensing
 
-| Type        |            |            |               | `Other`     |
+| Type        |    Visual Question Answering        |            |               | `Other`     |
 |:----------- |:--------------:|:--------------:|:----------------:|:-----------:|
-| Explanation |  |  |  | other types |
+| Explanation | VQA |  |  | other types |
 
 ### 2023
 | Title                                                                                                                            | Venue | Type    | Code |
 |:-------------------------------------------------------------------------------------------------------------------------------- |:-----:|:-------:|:----:|
-| [Revisiting Pruning at Initialization Through the Lens of Ramanujan Graph](https://openreview.net/forum?id=uVcDssQff_)                                                            | ICLR  | `W`     | [PyTorch(Author)](https://github.com/VITA-Group/ramanujan-on-pai)(Releasing)                                |
+| [Multistep Question-Driven Visual Question Answering for Remote Sensing](https://ieeexplore.ieee.org/document/10242124)          | TRGS  |   VQA   | [PyTorch(Author)](https://github.com/VITA-Group/ramanujan-on-pai)(Releasing)                                |
