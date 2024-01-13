@@ -19,4 +19,4 @@ Please feel free to [pull requests](https://github.com/icey-zhang/Awesome-Visual
 ### 2023
 | Title                                                                                                                            | Venue | Type    | Code |
 |:-------------------------------------------------------------------------------------------------------------------------------- |:-----:|:-------:|:----:|
-| [Multistep Question-Driven Visual Question Answering for Remote Sensing](https://ieeexplore.ieee.org/document/10242124)          | TRGS  |   VQA   | [PyTorch(Author)](https://github.com/VITA-Group/ramanujan-on-pai)(Releasing)                                |
+| [Multistep Question-Driven Visual Question Answering for Remote Sensing](https://ieeexplore.ieee.org/document/10242124)          | TRGS  |   VQA   | [PyTorch(Author)](https://github.com/MeimeiZhang-data/MQVQA)(Releasing)                                |
