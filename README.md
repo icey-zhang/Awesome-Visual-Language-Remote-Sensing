@@ -23,6 +23,7 @@ Please feel free to [pull requests](https://github.com/icey-zhang/Awesome-Visual
 | [CLIP-guided Source-free Object Detection in Aerial Images](https://arxiv.org/abs/2401.05168) |igarss在投| source-free 目标检测|暂未开源|
 
 ### 2024
+| Title                                                                                                                            | Venue | Type    | Code |
 |:-------------------------------------------------------------------------------------------------------------------------------- |:-----:|:-------:|:----:|
-| [SpectralGPT: Spectral Remote Sensing Foundation Model](https://arxiv.org/abs/2311.07113)          | TPAMI  |   VQA   | [PyTorch(Author)](https://github.com/danfenghong/IEEE_TPAMI_SpectralGPT)(Releasing) |
+| [SpectralGPT: Spectral Remote Sensing Foundation Model](https://arxiv.org/abs/2311.07113)          | TPAMI  |   -   | [PyTorch(Author)](https://github.com/danfenghong/IEEE_TPAMI_SpectralGPT)(Releasing) |
 
