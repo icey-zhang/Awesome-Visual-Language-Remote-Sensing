@@ -21,3 +21,8 @@ Please feel free to [pull requests](https://github.com/icey-zhang/Awesome-Visual
 |:-------------------------------------------------------------------------------------------------------------------------------- |:-----:|:-------:|:----:|
 | [Multistep Question-Driven Visual Question Answering for Remote Sensing](https://ieeexplore.ieee.org/document/10242124)          | TRGS  |   VQA   | [PyTorch(Author)](https://github.com/MeimeiZhang-data/MQVQA)(Releasing) |
 | [CLIP-guided Source-free Object Detection in Aerial Images](https://arxiv.org/abs/2401.05168) |igarss在投| source-free 目标检测|暂未开源|
+
+### 2024
+|:-------------------------------------------------------------------------------------------------------------------------------- |:-----:|:-------:|:----:|
+| [SpectralGPT: Spectral Remote Sensing Foundation Model](https://arxiv.org/abs/2311.07113)          | TPAMI  |   VQA   | [[PyTorch(Author)](https://github.com/MeimeiZhang-data/MQVQA](https://github.com/danfenghong/IEEE_TPAMI_SpectralGPT))(Releasing) |
+
