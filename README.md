@@ -24,5 +24,5 @@ Please feel free to [pull requests](https://github.com/icey-zhang/Awesome-Visual
 
 ### 2024
 |:-------------------------------------------------------------------------------------------------------------------------------- |:-----:|:-------:|:----:|
-| [SpectralGPT: Spectral Remote Sensing Foundation Model](https://arxiv.org/abs/2311.07113)          | TPAMI  |   VQA   | [[PyTorch(Author)](https://github.com/MeimeiZhang-data/MQVQA](https://github.com/danfenghong/IEEE_TPAMI_SpectralGPT))(Releasing) |
+| [SpectralGPT: Spectral Remote Sensing Foundation Model](https://arxiv.org/abs/2311.07113)          | TPAMI  |   VQA   | [PyTorch(Author)](https://github.com/MeimeiZhang-data/MQVQA](https://github.com/danfenghong/IEEE_TPAMI_SpectralGPT))(Releasing) |
 
