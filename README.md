@@ -14,7 +14,7 @@ Please feel free to [pull requests](https://github.com/icey-zhang/Awesome-Visual
 
 | Type        | Visual Question Answering |                  |               | `Other`     |
 |:----------- |:--------------:|:--------------:|:----------------:|:-----------:|
-| Explanation |          VQA   |                |                  | other types |
+| Explanation |    VQA   |                |                  | other types |
 
 ### 2023
 | Title                                                                                                                            | Venue | Type    | Code |
@@ -26,5 +26,7 @@ Please feel free to [pull requests](https://github.com/icey-zhang/Awesome-Visual
 | Title                                                                                                                            | Venue | Type    | Code |
 |:-------------------------------------------------------------------------------------------------------------------------------- |:-----:|:-------:|:----:|
 | [SpectralGPT: Spectral Remote Sensing Foundation Model](https://arxiv.org/abs/2311.07113)          | TPAMI  |   -   | [PyTorch](https://github.com/danfenghong/IEEE_TPAMI_SpectralGPT)(Releasing) |
-| [SkySense: A Multi-Modal Remote Sensing Foundation Model Towards Universal Interpretation for Earth Observation Imagery](https://arxiv.org/abs/2312.10115)          | CVPR2024  |   Classification & Segmentation & Detection & Change detection & Multi-Modal Segmentation: Time-insensitive LandCover Mapping & Multi-Modal Segmentation: Time-sensitive Crop Mapping & Multi-Modal Scene Classification   | 暂未开源 |
+| [SkySense: A Multi-Modal Remote Sensing Foundation Model Towards Universal Interpretation for Earth Observation Imagery](https://arxiv.org/abs/2312.10115)          | CVPR2024  |  -    | [pyTorch](https://github.com/mbzuai-oryx/GeoChat) |
+
+
 
