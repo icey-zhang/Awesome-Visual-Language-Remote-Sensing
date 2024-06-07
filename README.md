@@ -28,7 +28,7 @@ Please feel free to [pull requests](https://github.com/icey-zhang/Awesome-Visual
 | [SpectralGPT: Spectral Remote Sensing Foundation Model](https://arxiv.org/abs/2311.07113)          | TPAMI  |   Foundation Model   | [PyTorch](https://github.com/danfenghong/IEEE_TPAMI_SpectralGPT)(Releasing) |
 | [SkySense: A Multi-Modal Remote Sensing Foundation Model Towards Universal Interpretation for Earth Observation Imagery](https://arxiv.org/abs/2312.10115)          | CVPR2024  |  Foundation Model    | 暂未开源|
 | [GeoChat: Grounded Large Vision-Language Model for Remote Sensing](https://arxiv.org/abs/2311.15826)          | CVPR2024  |  LLM   | [pyTorch](https://github.com/mbzuai-oryx/GeoChat) |
-
+| [MTP: Advancing Remote Sensing Foundation Model via Multi-Task Pretraining](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10547536)          | JSTAR2024  |  Foundation Model   | [pyTorch](https://github.com/ViTAE-Transformer/MTP) |
 
 
 
