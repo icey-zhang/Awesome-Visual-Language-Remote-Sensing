@@ -25,9 +25,9 @@ Please feel free to [pull requests](https://github.com/icey-zhang/Awesome-Visual
 ### 2024
 | Title                                                                                                                            | Venue | Type    | Code |
 |:-------------------------------------------------------------------------------------------------------------------------------- |:-----:|:-------:|:----:|
-| [SpectralGPT: Spectral Remote Sensing Foundation Model](https://arxiv.org/abs/2311.07113)          | TPAMI  |   -   | [PyTorch](https://github.com/danfenghong/IEEE_TPAMI_SpectralGPT)(Releasing) |
-| [SkySense: A Multi-Modal Remote Sensing Foundation Model Towards Universal Interpretation for Earth Observation Imagery](https://arxiv.org/abs/2312.10115)          | CVPR2024  |  -    | 暂未开源|
-| [GeoChat: Grounded Large Vision-Language Model for Remote Sensing](https://arxiv.org/abs/2311.15826)          | CVPR2024  |  -    | [pyTorch](https://github.com/mbzuai-oryx/GeoChat) |
+| [SpectralGPT: Spectral Remote Sensing Foundation Model](https://arxiv.org/abs/2311.07113)          | TPAMI  |   Foundation Model   | [PyTorch](https://github.com/danfenghong/IEEE_TPAMI_SpectralGPT)(Releasing) |
+| [SkySense: A Multi-Modal Remote Sensing Foundation Model Towards Universal Interpretation for Earth Observation Imagery](https://arxiv.org/abs/2312.10115)          | CVPR2024  |  Foundation Model    | 暂未开源|
+| [GeoChat: Grounded Large Vision-Language Model for Remote Sensing](https://arxiv.org/abs/2311.15826)          | CVPR2024  |  LLM   | [pyTorch](https://github.com/mbzuai-oryx/GeoChat) |
 
 
 
