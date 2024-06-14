@@ -29,6 +29,6 @@ Please feel free to [pull requests](https://github.com/icey-zhang/Awesome-Visual
 | [SkySense: A Multi-Modal Remote Sensing Foundation Model Towards Universal Interpretation for Earth Observation Imagery](https://arxiv.org/abs/2312.10115)          | CVPR2024  |  Foundation Model    | 暂未开源|
 | [GeoChat: Grounded Large Vision-Language Model for Remote Sensing](https://arxiv.org/abs/2311.15826)          | CVPR2024  |  LLM   | [pyTorch](https://github.com/mbzuai-oryx/GeoChat) |
 | [MTP: Advancing Remote Sensing Foundation Model via Multi-Task Pretraining](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10547536)          | JSTAR2024  |  Foundation Model   | [pyTorch](https://github.com/ViTAE-Transformer/MTP) |
-
+| [SkyScript: A Large and Semantically Diverse Vision-Language Dataset for Remote Sensing](https://arxiv.org/abs/2312.12856)          | AAAI2024  |  image-text dataset  | [pyTorch](https://github.com/wangzhecheng/SkyScript) |
 
 
