@@ -12,7 +12,7 @@ Please feel free to [pull requests](https://github.com/icey-zhang/Awesome-Visual
 
 ### Type-of-Visual-Language-Remote-Sensing
 
-| Type        | Visual Question Answering |                  |               | `Other`     |
+| Type        | Visual Question Answering |                  |               | Other     |
 |:----------- |:--------------:|:--------------:|:----------------:|:-----------:|
 | Explanation |    VQA   |                |                  | other types |
 
