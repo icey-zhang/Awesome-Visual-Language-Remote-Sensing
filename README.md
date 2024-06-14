@@ -8,7 +8,7 @@ Please feel free to [pull requests](https://github.com/icey-zhang/Awesome-Visual
 
 - [Type of Visual-Language-Remote-Sensing](#Type-of-Visual-Language-Remote-Sensing)
 - [2023 Venues](#2023)
-- [2022 Venues](#2022)
+- [2024 Venues](#2024)
 
 ### Type-of-Visual-Language-Remote-Sensing
 
