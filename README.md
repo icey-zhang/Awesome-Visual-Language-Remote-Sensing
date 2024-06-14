@@ -30,5 +30,7 @@ Please feel free to [pull requests](https://github.com/icey-zhang/Awesome-Visual
 | [GeoChat: Grounded Large Vision-Language Model for Remote Sensing](https://arxiv.org/abs/2311.15826)          | CVPR2024  |  LLM   | [pyTorch](https://github.com/mbzuai-oryx/GeoChat) |
 | [MTP: Advancing Remote Sensing Foundation Model via Multi-Task Pretraining](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10547536)          | JSTAR2024  |  Foundation Model   | [pyTorch](https://github.com/ViTAE-Transformer/MTP) |
 | [SkyScript: A Large and Semantically Diverse Vision-Language Dataset for Remote Sensing](https://arxiv.org/abs/2312.12856)          | AAAI2024  |  Image-text Dataset  | [pyTorch](https://github.com/wangzhecheng/SkyScript) |
+| SkySenseGPT: A Fine-Grained Instruction Tuning Dataset and Model for Remote Sensing Vision-Language Understanding      | -  |  Vision-Language Understanding  | [pyTorch](https://github.com/Luo-Z13/SkySenseGPT) |
+
 
 
