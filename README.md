@@ -8,7 +8,6 @@
   <img src=https://img.shields.io/badge/Release-v1.1-brightgreen.svg >
   <img src=https://img.shields.io/badge/License-GPLv3.0-turquoise.svg >
  </div>   
-A curated list of neural network pruning and related resources. Inspired by [awesome-deep-vision](https://github.com/kjw0612/awesome-deep-vision), [awesome-adversarial-machine-learning](https://github.com/yenchenlin/awesome-adversarial-machine-learning), [awesome-deep-learning-papers](https://github.com/terryum/awesome-deep-learning-papers), [Awesome-NAS](https://github.com/D-X-Y/Awesome-NAS) and [awesome-pruning](https://github.com/he-y/Awesome-Pruning).
 
 Please feel free to [pull requests](https://github.com/icey-zhang/Awesome-Visual-Language-Remote-Sensing/pulls) or [open an issue](https://github.com/icey-zhang/Awesome-Visual-Language-Remote-Sensing/issues) to add papers.
 
