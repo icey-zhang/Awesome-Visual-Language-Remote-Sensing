@@ -1,7 +1,7 @@
 # Awesome Awesome-Visual-Language-Remote-Sensing
 <div align='center'>
   <img src=https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg >
-  <img src=https://img.shields.io/github/downloads/DefTruth/Awesome-LLM-Inference/total?color=ccf&label=downloads&logo=github&logoColor=lightgrey >
+  <img src=https://img.shields.io/github/icey-zhang/Awesome-Visual-Language-Remote-Sensing/total?color=ccf&label=downloads&logo=github&logoColor=lightgrey >
   <img src=https://img.shields.io/github/forks/icey-zhang/Awesome-Visual-Language-Remote-Sensing.svg?style=social >
   <img src=https://img.shields.io/github/stars/icey-zhang/Awesome-Visual-Language-Remote-Sensing?style=social >
   <img src=https://img.shields.io/github/watchers/icey-zhang/Awesome-Visual-Language-Remote-Sensing?style=social >
