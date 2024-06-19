@@ -39,6 +39,7 @@ Please feel free to [pull requests](https://github.com/icey-zhang/Awesome-Visual
 | [SkyScript: A Large and Semantically Diverse Vision-Language Dataset for Remote Sensing](https://arxiv.org/abs/2312.12856)          | AAAI2024  |  Image-text Dataset  | [pyTorch](https://github.com/wangzhecheng/SkyScript) |
 | SkySenseGPT: A Fine-Grained Instruction Tuning Dataset and Model for Remote Sensing Vision-Language Understanding      | -  |  Vision-Language Understanding  | [pyTorch](https://github.com/Luo-Z13/SkySenseGPT) |
 | [S2MAE: A Spatial-Spectral Pretraining Foundation Model for Spectral Remote Sensing Data](https://openaccess.thecvf.com/content/CVPR2024/html/Li_S2MAE_A_Spatial-Spectral_Pretraining_Foundation_Model_for_Spectral_Remote_Sensing_CVPR_2024_paper.html)      | CVPR2024  |  Foundation Model  | 暂未开源 |
+| [HyperSIGMA: Hyperspectral Intelligence Comprehension Foundation Model](https://arxiv.org/abs/2406.11519)      | -  |  Foundation Model for hyperspectral image  | [pytorch](https://github.com/WHU-Sigma/HyperSIGMA) |
 
 
 
